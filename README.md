@@ -8,6 +8,9 @@ Features :
 - Messages Box alerts
 - Full customizable
 
+Usage : Edit script for add SMTP mail identification
+c:/>python survivalAlertWin.py
+
 Enjoy'
 
 You can simply add all feature you want. 
