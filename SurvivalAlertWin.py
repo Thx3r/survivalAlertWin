@@ -5,7 +5,7 @@
 # Sample Windows Startup check -- Mail alert
 # SurvivalAlert v1.0
 # By thxer.com
-# N-pn.fr Community and Hexpresso Hack Team
+# N-pn.fr Community and Hexpresso CTF team
 
 import os
 import socket
